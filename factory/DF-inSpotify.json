@@ -1,0 +1,9 @@
+{
+	"name": "DF-inSpotify",
+	"location": "eastasia",
+	"identity": {
+		"type": "SystemAssigned",
+		"principalId": "c50e853f-447f-42f3-b548-f75a14d9997c",
+		"tenantId": "09bd1956-edda-4e9a-9543-7c7aa2cf4e81"
+	}
+}
